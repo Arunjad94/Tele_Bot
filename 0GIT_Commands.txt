@@ -1,0 +1,7 @@
+cd \path\to\your\project
+git init
+git remote add origin https://github.com/Arunjad94/Tele_Bot
+git add .
+git commit -m "Initial commit"
+git branch -m master main
+git push -u origin main
